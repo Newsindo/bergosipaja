@@ -1,0 +1,39 @@
+{
+  "name": "BERGOSIP",
+  "short_name": "BERGOSIPCLUB",
+  "scope": "URL HOMEPAGE",
+  "start_url": "https://www.bergosip.club/",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#2B0C93",
+  "description": "DESKRIPSI BLOG ANDA",
+  "icons": [{
+    "src": "https://1.bp.blogspot.com/-RR2JswAA_Gc/YLoS6FsqJ3I/AAAAAAAAEmc/jApFgWY75dAGlZGxYXGX17F3bSJru7XMwCLcBGAsYHQ/s48/bergosip.png",
+    "sizes": "48x48",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-RR2JswAA_Gc/YLoS6FsqJ3I/AAAAAAAAEmc/jApFgWY75dAGlZGxYXGX17F3bSJru7XMwCLcBGAsYHQ/s72/bergosip.png",
+    "sizes": "72x72",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-RR2JswAA_Gc/YLoS6FsqJ3I/AAAAAAAAEmc/jApFgWY75dAGlZGxYXGX17F3bSJru7XMwCLcBGAsYHQ/s96/bergosip.png",
+    "sizes": "96x96",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-RR2JswAA_Gc/YLoS6FsqJ3I/AAAAAAAAEmc/jApFgWY75dAGlZGxYXGX17F3bSJru7XMwCLcBGAsYHQ/s144/bergosip.png",
+    "sizes": "144x144",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-RR2JswAA_Gc/YLoS6FsqJ3I/AAAAAAAAEmc/jApFgWY75dAGlZGxYXGX17F3bSJru7XMwCLcBGAsYHQ/s168/bergosip.png",
+    "sizes": "168x168",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-RR2JswAA_Gc/YLoS6FsqJ3I/AAAAAAAAEmc/jApFgWY75dAGlZGxYXGX17F3bSJru7XMwCLcBGAsYHQ/s192/bergosip.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-RR2JswAA_Gc/YLoS6FsqJ3I/AAAAAAAAEmc/jApFgWY75dAGlZGxYXGX17F3bSJru7XMwCLcBGAsYHQ/s512/bergosip.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
+}
